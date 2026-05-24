@@ -8,6 +8,8 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Tegar API | [Raynazawa](https://github.com/RayNozawa) | [Link](https://marin.tegarx.web.id) | `Aktif` | API Collection | `APIKEY` 
+| azbry Api | [Febry wesker](https://github.com/vandebry10-star) | [Link](https://api.azbry.com) | `Aktif` | API Collection | `APIKEY` 
 | Harz Rest API | [Harz](https://github.com/Har404-err) | [Link](https://api.harzrestapi.web.id) | `Aktif` | API Collection | `TIDAK` |
 | Fgsi RestAPIs | [FongsiDev](https://github.com/Fgsi-APIs) | [Link](https://fgsi.koyeb.app) | `Aktif` | Fgsi RestAPIs | `APIKEY` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | TOXIC DEVIL API - Free Rest API | `TIDAK` |
